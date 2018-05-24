@@ -1,0 +1,8 @@
+#include <SFML/System.hpp>
+#include <SFML/Graphics.hpp>
+#include <SFML/Window.hpp>
+#include <SFML/Audio.hpp>
+#include <SFML/Network.hpp>
+
+IDR_APP_ICON ICON "(WL.ico)"
+GLUT_ICON ICON "(WL.ico)"
